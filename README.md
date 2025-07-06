@@ -80,3 +80,4 @@ GitHub: [guyssar](https://github.com/guyssar-db)
 
 MIT License
 
+# auto-clicker

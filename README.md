@@ -22,8 +22,8 @@
 
 1. ดาวน์โหลดหรือ Clone โครงการนี้:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/guyssar-db/auto-clicker.git
+   cd auto-clicker
    ```
 
 2. ติดตั้ง Python packages:
